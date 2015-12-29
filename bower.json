@@ -1,0 +1,18 @@
+{
+    "name": "bullseye-api",
+    "version": "0.0.0",
+    "description": "Bullseye API",
+    "authors": [],
+    "license": "Copyright 2015 Admedo Ltd.",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "sassy": "https://github.com/wiggly-admedo/sassy.git#master"
+    },
+    "private": true
+}
